@@ -44,3 +44,9 @@
 
    ## Ограничения
 - Для предотвращения частых запросов предусмотрена защита через параметр `cooldown`. По умолчанию минимальный интервал между запросами составляет 1 секунду.
+
+![image](https://github.com/user-attachments/assets/c0089959-a018-4f0b-81aa-2bdb88fc113e)
+
+![image](https://github.com/user-attachments/assets/1f1bb3e9-1802-4606-bfca-f386dd91f402)
+
+
