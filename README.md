@@ -50,3 +50,10 @@
 ![image](https://github.com/user-attachments/assets/1f1bb3e9-1802-4606-bfca-f386dd91f402)
 
 
+
+Запуск тестов
+
+
+![image](https://github.com/user-attachments/assets/7cb9ab76-dbf9-4b01-a827-bf9e6952743b)
+
+
